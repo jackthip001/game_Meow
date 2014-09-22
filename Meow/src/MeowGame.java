@@ -11,6 +11,7 @@ public class MeowGame extends BasicGame {
 	public static final int GAME_WIDTH = 640;
 	public static final int GAME_HEIGHT = 480;
 	Image backGround;
+	private PlayerMeow cat;
 	
 	public MeowGame(String title) {
 		super(title);
@@ -21,12 +22,14 @@ public class MeowGame extends BasicGame {
 	public void render(GameContainer container, Graphics g) throws SlickException {
 		// TODO Auto-generated method stub
 		backGround.draw(0,0);
-		
+		cat.render();
 	}
 
 	@Override
 	public void init(GameContainer container) throws SlickException {
 		backGround = new Image("res/BackGround2.png");
+		cat = new PlayerMeow();
+		
 	}
 
 	@Override
