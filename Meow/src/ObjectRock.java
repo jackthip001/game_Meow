@@ -24,10 +24,8 @@ private Image image;
 	
 	public void update(){
 		
-		force += 1;
-		if(force ==50){
-			force = 50;
-		}
+		force += 3;
+		
 	}
 	
 	public void reset() {
