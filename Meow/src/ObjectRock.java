@@ -25,10 +25,14 @@ private Image image;
 	public void update(){
 		
 		force += 3;
-		
+		if(force == 234) {
+			force = 231;
+		}
 	}
 	
 	public void reset() {
+		xPosition = 100;
+		yPosition = 290;
 		force = 0;
 	}
 	

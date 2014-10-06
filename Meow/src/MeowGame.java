@@ -30,7 +30,9 @@ public class MeowGame extends BasicGame {
 		backGround.draw(0,0);
 		cat.render();
 		g.drawString(message, 10, 50);
-		rock.render();
+		if(checkForce){
+			rock.render();
+		}
 	}
 
 	@Override
@@ -54,6 +56,7 @@ public class MeowGame extends BasicGame {
 	    	if(!checkForce){
 	    		rock.reset();
 	    	}
+	    	
 	    }
 	}
 	
@@ -70,13 +73,7 @@ public class MeowGame extends BasicGame {
 
 	}
 	
-//	public void keyPressed(int key, char c) {
-//		if (key == Input.KEY_SPACE) {
-//			rock.update();
-//			
-//	    }
-//		
-//	}
+
 	
 	public void keyReleased(int key, char c) {
 		message = "You pressed key code "+key+" (character = "+c+")";
