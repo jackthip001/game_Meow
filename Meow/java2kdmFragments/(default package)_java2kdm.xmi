@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:javaapplication="http://www.eclipse.org/MoDisco/Java/Composition/0.1.incubation/javaApplication">
+  <javaapplication:Java2File>
+    <file href="../Meow_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.12/@inventoryElement.4"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="1" startPosition="0" endLine="1" endPosition="31">
+      <node href="../Meow_java.xmi#//@compilationUnits.0/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="2" startPosition="32" endLine="2" endPosition="72">
+      <node href="../Meow_java.xmi#//@compilationUnits.0/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="75" endLine="24" endPosition="448">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="103" endLine="7" endPosition="123">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="111" endLine="7" endPosition="116">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="111" endLine="7" endPosition="116">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="117" endLine="7" endPosition="122">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="127" endLine="9" endPosition="167">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="147" endLine="9" endPosition="150">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="151" endLine="9" endPosition="166">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="164" endLine="9" endPosition="166">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="169" endLine="10" endPosition="210">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="189" endLine="10" endPosition="192">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="193" endLine="10" endPosition="209">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="206" endLine="10" endPosition="209">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.2/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="214" endLine="15" endPosition="302">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="241" endLine="12" endPosition="255">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="255" endLine="15" endPosition="302">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="259" endLine="13" endPosition="298">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="259" endLine="13" endPosition="297">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="259" endLine="13" endPosition="264">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="267" endLine="13" endPosition="297">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="271" endLine="13" endPosition="276">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="271" endLine="13" endPosition="276">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="277" endLine="13" endPosition="296">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.3/@body/@statements.0/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="304" endLine="19" endPosition="379">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="311" endLine="16" endPosition="315">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="324" endLine="19" endPosition="379">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="328" endLine="17" endPosition="333">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="328" endLine="17" endPosition="372">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="328" endLine="17" endPosition="373">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="339" endLine="17" endPosition="349">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="351" endLine="17" endPosition="361">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="363" endLine="17" endPosition="366">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="368" endLine="17" endPosition="371">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@statements.0/@expression/@arguments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="380" endLine="20" endPosition="405">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="406" endLine="21" endPosition="416">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@comments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="417" endLine="22" endPosition="441">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@comments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="442" endLine="23" endPosition="446">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4/@body/@comments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="842" endLine="31" endPosition="848">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.0/@bodyDeclarations.4"/>
+    </children>
+    <unit href="../Meow_java.xmi#//@compilationUnits.0"/>
+    <parent href="Package2Directory_java2kdm.xmi#/0"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../Meow_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.12/@inventoryElement.3"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="1" startPosition="0" endLine="1" endPosition="31">
+      <node href="../Meow_java.xmi#//@compilationUnits.1/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="2" startPosition="32" endLine="2" endPosition="72">
+      <node href="../Meow_java.xmi#//@compilationUnits.1/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="75" endLine="57" endPosition="920">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="101" endLine="6" endPosition="121">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="109" endLine="6" endPosition="114">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="109" endLine="6" endPosition="114">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="115" endLine="6" endPosition="120">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="125" endLine="8" endPosition="153">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="133" endLine="8" endPosition="136">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="137" endLine="8" endPosition="152">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="8" startPosition="149" endLine="8" endPosition="152">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="155" endLine="9" endPosition="183">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="163" endLine="9" endPosition="166">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="167" endLine="9" endPosition="182">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="9" startPosition="179" endLine="9" endPosition="182">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.2/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="187" endLine="11" endPosition="217">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="195" endLine="11" endPosition="198">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="199" endLine="11" endPosition="216">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="11" startPosition="215" endLine="11" endPosition="216">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.3/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="221" endLine="13" endPosition="239">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="229" endLine="13" endPosition="232">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="233" endLine="13" endPosition="238">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.4/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="243" endLine="18" endPosition="342">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="270" endLine="15" endPosition="284">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="284" endLine="18" endPosition="342">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="288" endLine="16" endPosition="293">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="288" endLine="16" endPosition="327">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="288" endLine="16" endPosition="328">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="296" endLine="16" endPosition="327">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="300" endLine="16" endPosition="305">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="300" endLine="16" endPosition="305">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="306" endLine="16" endPosition="326">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.0/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="331" endLine="17" endPosition="339">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="17" startPosition="331" endLine="17" endPosition="338">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.5/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="346" endLine="23" endPosition="415">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="353" endLine="20" endPosition="357">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="366" endLine="23" endPosition="415">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="370" endLine="21" endPosition="409">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="370" endLine="21" endPosition="410">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="370" endLine="21" endPosition="375">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="381" endLine="21" endPosition="390">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="392" endLine="21" endPosition="401">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="402" endLine="21" endPosition="404">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="21" startPosition="406" endLine="21" endPosition="408">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6/@body/@statements.0/@expression/@arguments.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="419" endLine="31" endPosition="501">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="426" endLine="25" endPosition="430">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="25" startPosition="439" endLine="31" endPosition="501">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="446" endLine="27" endPosition="451">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="446" endLine="27" endPosition="456">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="446" endLine="27" endPosition="457">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="455" endLine="27" endPosition="456">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="460" endLine="30" endPosition="498">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="463" endLine="28" endPosition="468">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="463" endLine="28" endPosition="475">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="472" endLine="28" endPosition="475">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="477" endLine="30" endPosition="498">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="482" endLine="29" endPosition="493">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="482" endLine="29" endPosition="494">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="482" endLine="29" endPosition="487">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="490" endLine="29" endPosition="493">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7/@body/@statements.1/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="505" endLine="37" endPosition="580">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="512" endLine="33" endPosition="516">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="525" endLine="37" endPosition="580">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="529" endLine="34" endPosition="544">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="529" endLine="34" endPosition="538">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="529" endLine="34" endPosition="545">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="541" endLine="34" endPosition="544">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="548" endLine="35" endPosition="557">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="548" endLine="35" endPosition="563">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="548" endLine="35" endPosition="564">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="35" startPosition="560" endLine="35" endPosition="563">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="567" endLine="36" endPosition="572">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="567" endLine="36" endPosition="577">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="567" endLine="36" endPosition="576">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="36" startPosition="575" endLine="36" endPosition="576">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="584" endLine="42" endPosition="626">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="591" endLine="39" endPosition="594">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="605" endLine="42" endPosition="626">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="610" endLine="41" endPosition="623">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="617" endLine="41" endPosition="622">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="628" endLine="56" endPosition="918">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="635" endLine="43" endPosition="639">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="43" startPosition="650" endLine="56" endPosition="918">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="654" endLine="55" endPosition="915">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="657" endLine="44" endPosition="699">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="657" endLine="44" endPosition="670">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@leftOperand/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="657" endLine="44" endPosition="676">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="671" endLine="44" endPosition="676">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@leftOperand/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="680" endLine="44" endPosition="699">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="680" endLine="44" endPosition="688">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@rightOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="689" endLine="44" endPosition="699">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="44" startPosition="700" endLine="55" endPosition="915">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="705" endLine="45" endPosition="714">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="705" endLine="45" endPosition="719">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="705" endLine="45" endPosition="720">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="45" startPosition="718" endLine="45" endPosition="719">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="724" endLine="49" endPosition="799">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="727" endLine="46" endPosition="740">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="727" endLine="46" endPosition="750">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="743" endLine="46" endPosition="750">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="743" endLine="46" endPosition="748">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@expression/@rightOperand/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="749" endLine="46" endPosition="750">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@expression/@rightOperand/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="756" endLine="47" endPosition="770">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="756" endLine="47" endPosition="771">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="756" endLine="47" endPosition="765">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="769" endLine="47" endPosition="770">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@thenStatement/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="784" endLine="49" endPosition="793">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="784" endLine="49" endPosition="798">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="784" endLine="49" endPosition="799">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@elseStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="797" endLine="49" endPosition="798">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.1/@elseStatement/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="803" endLine="50" endPosition="818">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="803" endLine="50" endPosition="819">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="803" endLine="50" endPosition="816">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.2/@expression/@operand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="823" endLine="54" endPosition="911">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="826" endLine="51" endPosition="848">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="826" endLine="51" endPosition="839">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="843" endLine="51" endPosition="848">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="849" endLine="54" endPosition="911">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="855" endLine="52" endPosition="863">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0/@expression/@leftHandSide/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="855" endLine="52" endPosition="874">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="855" endLine="52" endPosition="882">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="855" endLine="52" endPosition="883">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="864" endLine="52" endPosition="874">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="877" endLine="52" endPosition="882">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="888" endLine="53" endPosition="901">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="888" endLine="53" endPosition="905">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="888" endLine="53" endPosition="906">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="53" startPosition="904" endLine="53" endPosition="905">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10/@body/@statements.0/@thenStatement/@statements.3/@thenStatement/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="913" endLine="34" endPosition="919">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1342" endLine="51" endPosition="1348">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1383" endLine="52" endPosition="1391">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1435" endLine="55" endPosition="1443">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1482" endLine="57" endPosition="1487">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.1/@bodyDeclarations.8"/>
+    </children>
+    <unit href="../Meow_java.xmi#//@compilationUnits.1"/>
+    <parent href="Package2Directory_java2kdm.xmi#/0"/>
+  </javaapplication:Java2File>
+  <javaapplication:Java2File>
+    <file href="../Meow_kdm.xmi#//@model.0/@inventoryElement.0/@inventoryElement.12/@inventoryElement.2"/>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="1" startPosition="0" endLine="1" endPosition="42">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="2" startPosition="43" endLine="2" endPosition="78">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="3" startPosition="79" endLine="3" endPosition="118">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="4" startPosition="119" endLine="4" endPosition="153">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="5" startPosition="154" endLine="5" endPosition="185">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="6" startPosition="186" endLine="6" endPosition="217">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="7" startPosition="218" endLine="7" endPosition="258">
+      <node href="../Meow_java.xmi#//@compilationUnits.2/@imports.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="261" endLine="85" endPosition="2043">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="291" endLine="10" endPosition="300">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="10" startPosition="291" endLine="10" endPosition="300">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@superClass"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="305" endLine="12" endPosition="346">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="325" endLine="12" endPosition="328">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="329" endLine="12" endPosition="345">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="12" startPosition="342" endLine="12" endPosition="345">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="348" endLine="13" endPosition="390">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="368" endLine="13" endPosition="371">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="372" endLine="13" endPosition="389">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="13" startPosition="386" endLine="13" endPosition="389">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="392" endLine="14" endPosition="409">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="392" endLine="14" endPosition="397">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="392" endLine="14" endPosition="397">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="14" startPosition="398" endLine="14" endPosition="408">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.2/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="411" endLine="15" endPosition="434">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="419" endLine="15" endPosition="429">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="419" endLine="15" endPosition="429">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="15" startPosition="430" endLine="15" endPosition="433">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.3/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="436" endLine="16" endPosition="460">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="444" endLine="16" endPosition="454">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="444" endLine="16" endPosition="454">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="16" startPosition="455" endLine="16" endPosition="459">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.4/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="464" endLine="18" endPosition="505">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="478" endLine="18" endPosition="485">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="486" endLine="18" endPosition="504">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="18" startPosition="499" endLine="18" endPosition="504">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.5/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="20" startPosition="508" endLine="20" endPosition="585">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="589" endLine="25" endPosition="681">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="611">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="611">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="605" endLine="22" endPosition="617">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="22" startPosition="619" endLine="25" endPosition="681">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="623" endLine="23" endPosition="636">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="23" startPosition="629" endLine="23" endPosition="634">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@body/@statements.0/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="24" startPosition="639" endLine="24" endPosition="678">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.6/@body/@statements.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="684" endLine="27" endPosition="693">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="684" endLine="36" endPosition="929">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="27" startPosition="685" endLine="27" endPosition="693">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="702" endLine="28" endPosition="706">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="714" endLine="28" endPosition="727">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="714" endLine="28" endPosition="737">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="714" endLine="28" endPosition="727">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="739" endLine="28" endPosition="747">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="739" endLine="28" endPosition="749">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="739" endLine="28" endPosition="747">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="758" endLine="28" endPosition="772">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="28" startPosition="773" endLine="36" endPosition="929">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="29" startPosition="777" endLine="29" endPosition="811">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="814" endLine="30" endPosition="824">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="814" endLine="30" endPosition="834">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="814" endLine="30" endPosition="835">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="830" endLine="30" endPosition="831">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="30" startPosition="832" endLine="30" endPosition="833">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.0/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="838" endLine="31" endPosition="850">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="838" endLine="31" endPosition="851">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="31" startPosition="838" endLine="31" endPosition="841">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="32" startPosition="853" endLine="32" endPosition="886">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="889" endLine="35" endPosition="926">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="892" endLine="33" endPosition="902">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="33" startPosition="903" endLine="35" endPosition="926">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="908" endLine="34" endPosition="921">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="908" endLine="34" endPosition="912">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="34" startPosition="908" endLine="34" endPosition="922">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.7/@body/@statements.2/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="932" endLine="38" endPosition="941">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="932" endLine="44" endPosition="1116">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="38" startPosition="933" endLine="38" endPosition="941">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="950" endLine="39" endPosition="954">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="960" endLine="39" endPosition="973">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="960" endLine="39" endPosition="973">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="960" endLine="39" endPosition="983">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="992" endLine="39" endPosition="1006">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="39" startPosition="1007" endLine="44" endPosition="1116">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1011" endLine="40" endPosition="1057">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1011" endLine="40" endPosition="1056">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1011" endLine="40" endPosition="1021">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1024" endLine="40" endPosition="1056">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1028" endLine="40" endPosition="1033">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1028" endLine="40" endPosition="1033">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="40" startPosition="1034" endLine="40" endPosition="1055">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.0/@expression/@rightHandSide/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1060" endLine="41" endPosition="1063">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1060" endLine="41" endPosition="1083">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1060" endLine="41" endPosition="1082">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1066" endLine="41" endPosition="1082">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1070" endLine="41" endPosition="1080">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="41" startPosition="1070" endLine="41" endPosition="1080">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.1/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1086" endLine="42" endPosition="1090">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1086" endLine="42" endPosition="1109">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1086" endLine="42" endPosition="1110">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1093" endLine="42" endPosition="1109">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1097" endLine="42" endPosition="1107">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="42" startPosition="1097" endLine="42" endPosition="1107">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.8/@body/@statements.2/@expression/@rightHandSide/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="1119" endLine="46" endPosition="1128">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@annotations.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="1119" endLine="61" endPosition="1515">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="46" startPosition="1120" endLine="46" endPosition="1128">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@annotations.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1137" endLine="47" endPosition="1141">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1149" endLine="47" endPosition="1172">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1149" endLine="47" endPosition="1162">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1149" endLine="47" endPosition="1162">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1174" endLine="47" endPosition="1177">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1174" endLine="47" endPosition="1183">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1192" endLine="47" endPosition="1206">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@thrownExceptions.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="47" startPosition="1207" endLine="61" endPosition="1515">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="48" startPosition="1211" endLine="48" endPosition="1245">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1248" endLine="49" endPosition="1283">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1248" endLine="49" endPosition="1253">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1248" endLine="49" endPosition="1253">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1254" endLine="49" endPosition="1282">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1262" endLine="49" endPosition="1271">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@fragments.0/@initializer/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="49" startPosition="1262" endLine="49" endPosition="1282">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1289" endLine="53" endPosition="1402">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1293" endLine="50" endPosition="1325">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1293" endLine="50" endPosition="1298">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1309" endLine="50" endPosition="1324">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1309" endLine="50" endPosition="1314">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@expression/@arguments.0/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1315" endLine="50" endPosition="1324">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="50" startPosition="1327" endLine="53" endPosition="1402">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1337" endLine="51" endPosition="1351">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1337" endLine="51" endPosition="1350">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="51" startPosition="1337" endLine="51" endPosition="1341">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1359" endLine="52" endPosition="1369">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1359" endLine="52" endPosition="1394">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1359" endLine="52" endPosition="1365">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression/@expression/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1359" endLine="52" endPosition="1395">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1366" endLine="52" endPosition="1369">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1378" endLine="52" endPosition="1382">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression/@arguments.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="52" startPosition="1378" endLine="52" endPosition="1393">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.1/@thenStatement/@statements.1/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1408" endLine="60" endPosition="1512">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1411" endLine="54" endPosition="1421">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="54" startPosition="1422" endLine="60" endPosition="1512">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1430" endLine="55" endPosition="1445">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1430" endLine="55" endPosition="1434">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="55" startPosition="1430" endLine="55" endPosition="1446">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1453" endLine="58" endPosition="1498">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1456" endLine="56" endPosition="1467">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1457" endLine="56" endPosition="1467">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@expression/@operand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="56" startPosition="1468" endLine="58" endPosition="1498">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1477" endLine="57" endPosition="1489">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1477" endLine="57" endPosition="1481">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@thenStatement/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="57" startPosition="1477" endLine="57" endPosition="1490">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.9/@body/@statements.2/@thenStatement/@statements.1/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1519" endLine="74" endPosition="1858">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1533" endLine="63" endPosition="1537">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1543" endLine="63" endPosition="1551">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1543" endLine="63" endPosition="1556">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="63" startPosition="1558" endLine="74" endPosition="1858">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1562" endLine="72" endPosition="1854">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="64" startPosition="1566" endLine="70" endPosition="1799">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1571" endLine="65" endPosition="1579">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1571" endLine="65" endPosition="1579">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1571" endLine="65" endPosition="1613">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1580" endLine="65" endPosition="1612">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1587" endLine="65" endPosition="1612">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1591" endLine="65" endPosition="1599">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1591" endLine="65" endPosition="1599">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="65" startPosition="1600" endLine="65" endPosition="1611">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.0/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1617" endLine="66" endPosition="1633">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1617" endLine="66" endPosition="1669">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1617" endLine="66" endPosition="1633">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1634" endLine="66" endPosition="1668">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@fragments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1642" endLine="66" endPosition="1668">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1646" endLine="66" endPosition="1662">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1646" endLine="66" endPosition="1662">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="66" startPosition="1663" endLine="66" endPosition="1667">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.1/@fragments.0/@initializer/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1673" endLine="67" endPosition="1725">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1673" endLine="67" endPosition="1678">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1673" endLine="67" endPosition="1726">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1694" endLine="67" endPosition="1704">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1706" endLine="67" endPosition="1717">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2/@expression/@arguments.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="67" startPosition="1719" endLine="67" endPosition="1724">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.2/@expression/@arguments.2"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1730" endLine="68" endPosition="1735">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1730" endLine="68" endPosition="1776">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1730" endLine="68" endPosition="1777">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1766" endLine="68" endPosition="1770">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3/@expression/@arguments.0/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1766" endLine="68" endPosition="1775">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3/@expression/@arguments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="68" startPosition="1773" endLine="68" endPosition="1775">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.3/@expression/@arguments.0/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1781" endLine="69" endPosition="1794">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.4/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1781" endLine="69" endPosition="1786">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.4/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="69" startPosition="1781" endLine="69" endPosition="1795">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@body/@statements.4"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1800" endLine="72" endPosition="1854">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1807" endLine="70" endPosition="1821">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1807" endLine="70" endPosition="1821">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@exception/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1807" endLine="70" endPosition="1823">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@exception"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="70" startPosition="1825" endLine="72" endPosition="1854">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1830" endLine="71" endPosition="1831">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@body/@statements.0/@expression/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1830" endLine="71" endPosition="1849">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="71" startPosition="1830" endLine="71" endPosition="1850">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.10/@body/@statements.0/@catchClauses.0/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1865" endLine="84" endPosition="2041">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1872" endLine="78" endPosition="1876">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@returnType"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1889" endLine="78" endPosition="1896">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1889" endLine="78" endPosition="1892">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.0/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1898" endLine="78" endPosition="1902">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.1/@type"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1898" endLine="78" endPosition="1904">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@parameters.1"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="78" startPosition="1906" endLine="84" endPosition="2041">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="79" startPosition="1908" endLine="79" endPosition="1973">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@comments.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1976" endLine="83" endPosition="2038">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1980" endLine="80" endPosition="2002">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1980" endLine="80" endPosition="1983">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@expression/@leftOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1987" endLine="80" endPosition="1992">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand/@qualifier"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1987" endLine="80" endPosition="2002">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="1993" endLine="80" endPosition="2002">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@expression/@rightOperand"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="80" startPosition="2004" endLine="83" endPosition="2038">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@thenStatement"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2009" endLine="81" endPosition="2019">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0/@expression/@leftHandSide"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2009" endLine="81" endPosition="2026">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0/@expression"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2009" endLine="81" endPosition="2027">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0"/>
+    </children>
+    <children xsi:type="javaapplication:JavaNodeSourceRegion" startLine="81" startPosition="2022" endLine="81" endPosition="2026">
+      <node href="../Meow_java.xmi#//@ownedElements.0/@ownedElements.2/@bodyDeclarations.11/@body/@statements.0/@thenStatement/@statements.0/@expression/@rightHandSide"/>
+    </children>
+    <unit href="../Meow_java.xmi#//@compilationUnits.2"/>
+    <parent href="Package2Directory_java2kdm.xmi#/0"/>
+  </javaapplication:Java2File>
+</xmi:XMI>

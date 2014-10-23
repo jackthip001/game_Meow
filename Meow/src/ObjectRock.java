@@ -8,12 +8,12 @@ private Image image;
 	private int xPosition = 100;
 	private int yPosition = 290;
 	
-	private int m = 0;
+	private int checkDistance = 0;
 	
 	private int force;
 	
 	public ObjectRock() throws SlickException{
-		image =new Image("res/FlintStone.png");
+		image = new Image("res/FlintStone.png");
 		reset();
 	}
 	
@@ -41,16 +41,16 @@ private Image image;
 		return force;
 	}
 	public void rockMove(){
-		if(m<force && MeowGame.checkForce){
-			xPosition += 2;
-			if(m<force/2)
+		if(checkDistance<force && MeowGame.checkForce){
+			xPosition += 3;
+			if(checkDistance < force/2)
 				yPosition -= 1;
 			else
 				yPosition += 1;
-				m++;
-			if(m>=force){
+			checkDistance++;
+			if(checkDistance >= force){
 				MeowGame.checkForce = false;
-				m=0;
+				checkDistance = 0;
 			}
 		}
 	}

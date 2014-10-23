@@ -14,10 +14,11 @@ public class MeowGame extends BasicGame {
 	Image backGround;
 	private PlayerMeow cat;
 	private ObjectRock rock;
+	private PlayerMan man;
 	
 	public static boolean checkForce = false;
 	
-	private String message = "Press any key, mouse button, or drag the mouse";
+//	private String message = "Press any key, mouse button, or drag the mouse";
 	
 	public MeowGame(String title) {
 		super(title);
@@ -29,7 +30,8 @@ public class MeowGame extends BasicGame {
 		// TODO Auto-generated method stub
 		backGround.draw(0,0);
 		cat.render();
-		g.drawString(message, 10, 50);
+		man.render();
+	//	g.drawString(message, 10, 50);
 		if(checkForce){
 			rock.render();
 		}
@@ -40,6 +42,7 @@ public class MeowGame extends BasicGame {
 		backGround = new Image("res/BackGround2.png");
 		cat = new PlayerMeow();
 		rock = new ObjectRock();
+		man = new PlayerMan();
 		
 	}
 
@@ -76,7 +79,7 @@ public class MeowGame extends BasicGame {
 
 	
 	public void keyReleased(int key, char c) {
-		message = "You pressed key code "+key+" (character = "+c+")";
+//		message = "You pressed key code "+key+" (character = "+c+")";
 		if (key == Input.KEY_SPACE) {
 			checkForce = true;
 			
