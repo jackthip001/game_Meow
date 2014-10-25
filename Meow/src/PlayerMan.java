@@ -9,6 +9,8 @@ public class PlayerMan {
 	public static final int X_Position = 500;
 	public static final int Y_Position = 320;
 	
+	private static int HP = 12;
+	
 	public PlayerMan() throws SlickException {
 		image = new Image("res/playerMan.png");
 	}

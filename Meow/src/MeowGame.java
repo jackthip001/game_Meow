@@ -11,11 +11,14 @@ public class MeowGame extends BasicGame {
 
 	public static final int GAME_WIDTH = 640;
 	public static final int GAME_HEIGHT = 480;
+	
 	Image backGround;
+	
 	private PlayerMeow cat;
 	private ObjectRock rock;
 	private PlayerMan man;
 	
+	public static String checkPlayer = "CAT";
 	public static boolean checkForce = false;
 	
 //	private String message = "Press any key, mouse button, or drag the mouse";
