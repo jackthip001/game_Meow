@@ -23,7 +23,6 @@ private Image image;
 	}
 	
 	public void update(){
-		
 		force += 3;
 		if(force == 234) {
 			force = 231;
@@ -43,7 +42,7 @@ private Image image;
 	public void rockMove(){
 		if(checkDistance<force && MeowGame.checkForce){
 			xPosition += 3;
-			if(checkDistance < force/2)
+			if(checkDistance < force/3)
 				yPosition -= 1;
 			else
 				yPosition += 1;

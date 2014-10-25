@@ -58,8 +58,7 @@ public class MeowGame extends BasicGame {
 	    	rock.rockMove();
 	    	if(!checkForce){
 	    		rock.reset();
-	    	}
-	    	
+	    	}	
 	    }
 	}
 	
