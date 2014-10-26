@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 import org.newdawn.slick.AppGameContainer;
 import org.newdawn.slick.BasicGame;
 import org.newdawn.slick.GameContainer;
@@ -15,16 +17,22 @@ public class MeowGame extends BasicGame {
 	Image backGround;
 	
 	private PlayerMeow cat;
-	private ObjectRock rock;
 	private PlayerMan man;
+	public ArrayList<Player> players;
 	
+	private ObjectRock rock;
+	
+	public static boolean gemeStart = false;
+	public static boolean gameOver = false;
 	public static String checkPlayer = "CAT";
 	public static boolean checkForce = false;
+	public static boolean getHited = false;
 	
 //	private String message = "Press any key, mouse button, or drag the mouse";
 	
 	public MeowGame(String title) {
 		super(title);
+		players = new ArrayList<Player>();
 		// TODO Auto-generated constructor stub
 	}
 
@@ -32,8 +40,9 @@ public class MeowGame extends BasicGame {
 	public void render(GameContainer container, Graphics g) throws SlickException {
 		// TODO Auto-generated method stub
 		backGround.draw(0,0);
-		cat.render();
-		man.render();
+		for(Player player : players) {
+			player.render();
+		}
 	//	g.drawString(message, 10, 50);
 		if(checkForce){
 			rock.render();
@@ -44,14 +53,19 @@ public class MeowGame extends BasicGame {
 	public void init(GameContainer container) throws SlickException {
 		backGround = new Image("res/BackGround2.png");
 		cat = new PlayerMeow();
-		rock = new ObjectRock();
 		man = new PlayerMan();
+		players.add(cat);
+		players.add(man);
 		
+		rock = new ObjectRock();
 	}
 
 	@Override
 	public void update(GameContainer container, int delta) throws SlickException {
 		// TODO Auto-generated method stub
+		for(Player player : players) {
+			player.hitedRock();
+		}
 		Input input = container.getInput();
 	    if (input.isKeyDown(Input.KEY_SPACE)) { 
 	      rock.update();
@@ -86,5 +100,9 @@ public class MeowGame extends BasicGame {
 			checkForce = true;
 			
 	    }
+	}
+	
+	public static boolean catPlay() {
+		return checkPlayer.equals("CAT");
 	}
 }
