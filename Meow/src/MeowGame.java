@@ -31,6 +31,7 @@ public class MeowGame extends BasicGame {
 	private String hpMeow;
 	private String hpMan;
 	public static String stateGame;
+	private String forceState = "0%";
 //	private String message = "Press any key, mouse button, or drag the mouse";
 	
 	public MeowGame(String title) {
@@ -49,6 +50,7 @@ public class MeowGame extends BasicGame {
 	//	g.drawString(message, 10, 50);
 		g.drawString(hpMeow, 10 , 50);
 		g.drawString(hpMan, 550, 50);
+		g.drawString(forceState, 320, 400);
 		if(checkForce){
 			rock.render();
 		}
@@ -63,7 +65,7 @@ public class MeowGame extends BasicGame {
 		players.add(man);
 		
 		rock = new ObjectRock();
-		
+
 		upDateHP();
 	}
 
@@ -78,12 +80,14 @@ public class MeowGame extends BasicGame {
 		if(!gameOver) {
 			if (input.isKeyDown(Input.KEY_SPACE)) { 
 				rock.update();
+				forceState = rock.getShowForce() + "%";
 				System.out.println(rock.getForce());
 			}
 			if(checkForce){
 				rock.rockMove();
 				if(!checkForce){
 					rock.reset();
+					forceState = rock.getShowForce() + "%";
 				}	
 			}
 		}

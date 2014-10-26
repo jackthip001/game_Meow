@@ -21,6 +21,7 @@ public class ObjectRock {
 	
 	private int checkDistance = 0;
 	
+	private int showForce;
 	private int force;
 	
 	public ObjectRock() throws SlickException{
@@ -37,6 +38,7 @@ public class ObjectRock {
 	
 	public void update(){
 		force += FORCE_UP;
+		showForce = force*100/MAX_FORCE;
 		if(force == MAX_FORCE + FORCE_UP) {
 			force = MAX_FORCE;
 		}
@@ -59,10 +61,15 @@ public class ObjectRock {
 		yPosition = POSITION_Y;
 		
 		force = 0;
+		showForce = 0;
 	}
 	
 	public int getForce() {
 		return force;
+	}
+	
+	public int getShowForce() {
+		return showForce;
 	}
 	
 	public void rockMove(){ 
