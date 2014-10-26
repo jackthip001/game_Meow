@@ -24,14 +24,15 @@ public class PlayerMan implements Player{
 	public void hitedRock() {
 		int checkX = ObjectRock.getX(MeowGame.catPlay());
 		int checkY = ObjectRock.getY();
-		if(checkX >= X_Position) {
+		if(checkX >= X_Position && X_Position + SIZE_MAN >= checkX) {
 			if(checkY >= Y_Position) {
 				MeowGame.getHited = true;
 				System.out.println("hited!");
 			}
 		}
 		if(HP == 0) {
-			
+			MeowGame.gameOver = true;
+			MeowGame.stateGame = "MEOW WIN!";
 		}
 	}
 }

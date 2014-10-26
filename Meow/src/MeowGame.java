@@ -30,6 +30,7 @@ public class MeowGame extends BasicGame {
 	
 	private String hpMeow;
 	private String hpMan;
+	public static String stateGame;
 //	private String message = "Press any key, mouse button, or drag the mouse";
 	
 	public MeowGame(String title) {
@@ -74,16 +75,18 @@ public class MeowGame extends BasicGame {
 		}
 		upDateHP();
 		Input input = container.getInput();
-	    if (input.isKeyDown(Input.KEY_SPACE)) { 
-	      rock.update();
-	      System.out.println(rock.getForce());
-	    }
-	    if(checkForce){
-	    	rock.rockMove();
-	    	if(!checkForce){
-	    		rock.reset();
-	    	}	
-	    }
+		if(!gameOver) {
+			if (input.isKeyDown(Input.KEY_SPACE)) { 
+				rock.update();
+				System.out.println(rock.getForce());
+			}
+			if(checkForce){
+				rock.rockMove();
+				if(!checkForce){
+					rock.reset();
+				}	
+			}
+		}
 	}
 	
 	public static void main(String[] args) {
