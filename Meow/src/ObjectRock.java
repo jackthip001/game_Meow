@@ -87,12 +87,12 @@ public class ObjectRock {
 			checkDistance = 0;
 			if(MeowGame.catPlay()) {
 				if(MeowGame.getHited)
-					PlayerMeow.HP -= 3;
+					PlayerMan.HP -= 3;
 				MeowGame.checkPlayer = "MAN";
 			}
 			else {
 				if(MeowGame.getHited)
-					PlayerMan.HP -= 3;
+					PlayerMeow.HP -= 3;
 				MeowGame.checkPlayer = "CAT";
 			}
 			MeowGame.getHited = false;

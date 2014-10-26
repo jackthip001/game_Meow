@@ -28,6 +28,8 @@ public class MeowGame extends BasicGame {
 	public static boolean checkForce = false;
 	public static boolean getHited = false;
 	
+	private String hpMeow;
+	private String hpMan;
 //	private String message = "Press any key, mouse button, or drag the mouse";
 	
 	public MeowGame(String title) {
@@ -44,6 +46,8 @@ public class MeowGame extends BasicGame {
 			player.render();
 		}
 	//	g.drawString(message, 10, 50);
+		g.drawString(hpMeow, 10 , 50);
+		g.drawString(hpMan, 550, 50);
 		if(checkForce){
 			rock.render();
 		}
@@ -58,6 +62,8 @@ public class MeowGame extends BasicGame {
 		players.add(man);
 		
 		rock = new ObjectRock();
+		
+		upDateHP();
 	}
 
 	@Override
@@ -66,6 +72,7 @@ public class MeowGame extends BasicGame {
 		for(Player player : players) {
 			player.hitedRock();
 		}
+		upDateHP();
 		Input input = container.getInput();
 	    if (input.isKeyDown(Input.KEY_SPACE)) { 
 	      rock.update();
@@ -92,8 +99,6 @@ public class MeowGame extends BasicGame {
 
 	}
 	
-
-	
 	public void keyReleased(int key, char c) {
 //		message = "You pressed key code "+key+" (character = "+c+")";
 		if (key == Input.KEY_SPACE) {
@@ -104,5 +109,10 @@ public class MeowGame extends BasicGame {
 	
 	public static boolean catPlay() {
 		return checkPlayer.equals("CAT");
+	}
+	
+	private void upDateHP() {
+		hpMeow = "HP : " + PlayerMeow.HP;
+		hpMan = "HP : " + PlayerMan.HP;
 	}
 }
